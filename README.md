@@ -1,4 +1,4 @@
-# 4.Execution_of_NetworkCommands
+# 4a. Execution_of_NetworkCommands
 ## NAME: RENICK FABIAN RAJESH
 ## REG NO: 212224230227
 ## AIM :Use of Network commands in Real Time environment
@@ -17,15 +17,7 @@ Step 5: Get the details of the server
 Step 6: print the results.
 Step 7: Stop the program.
 ```
-## Algorithm for TRACEROUTE:
-```
-1. Start the program.
-2. Get the frame size from the user.
-3. To create the frame based on the user request.
-4. To send frames to server from the client side.
-5. If your frames reach the server, it will send ACK signal to client otherwise it will send NACK signal to client.
-6. Stop the program
-```
+
 ## Procedure: To do this EXPERIMENT- follows these steps:
 <BR>
 In this EXPERIMENT- students have to understand basic networking commands e.g cpdump, netstat, ifconfig, nslookup ,traceroute and also Capture ping and traceroute PDUs using a network protocol analyzer 
@@ -82,12 +74,6 @@ while True:
 ## Output
 ![Screenshot 2025-04-30 121016](https://github.com/user-attachments/assets/806720d0-224e-4925-a651-ae9d3e860a9d)
 ![Screenshot 2025-04-30 121050](https://github.com/user-attachments/assets/dbb061f1-3f0e-4e73-add7-1b4be74dcabb)
-## TRACEROUTE
-## Command:
-```
-tracert www.facebook.com
-```
-![Screenshot 2025-04-30 121327](https://github.com/user-attachments/assets/a5e3d36b-4b4c-40e6-a5ff-73a27f4e4b3c)
 
 
 ## Result
